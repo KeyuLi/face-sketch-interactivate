@@ -17,8 +17,8 @@ Because there's a lot of configuration involved, more details you can see the co
 You can Download CUHK dataset from [HERE.](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
 # Related Work
 * [A CNN Cascade for Landmark Guided Semantic Part Segmentation](http://aaronsplace.co.uk/papers/jackson2016guided/index.html)
-* [Cycle_GAN](https://github.com/junyanz/CycleGAN)
-* Thanks for their great work.
+* [Cycle_GAN](https://github.com/junyanz/CycleGAN)   
+Thanks for their great work.
 # Results
 
 
